@@ -1,0 +1,24 @@
+body    {
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.container  {
+    margin: auto;
+    padding: 1rem;
+}
+button  {
+    background-color: rgba(255, 192, 203,0.9);
+}
+
+input   {
+    background-color: rgba(255, 192, 203,0.9);
+    color: black;
+}
+ul>li>button  {
+    color: black;
+    background-color: pink;
+    /* margin-left: 20px; */
+    margin: 10px;
+    /* padding: 5px; */
+    line-height: 2;
+}
