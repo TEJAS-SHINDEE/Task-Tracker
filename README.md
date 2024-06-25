@@ -13,12 +13,12 @@ The goal is to provide a straightforward interface for users to create, update, 
 
 ### Installation
 1. Clone the repository:
-  ```bash
-  git clone https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME.git
+    ```bash
+    git clone https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME.git
 
 2. Navigate to the project directory:
-  ```bash
-  cd REPOSITORY_NAME
+    ```bash
+    cd REPOSITORY_NAME
 
 3. Open the index.html file in your web browser to view the website.
 
